@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace UNAYOE.FISI.Entidades.Core
 {
-    internal class Class1
+    public class TipoUsuario
     {
+        public int IdTipoPersona { get; set; }
+        public string Descripcion { get; set; }
+
     }
 }

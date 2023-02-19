@@ -42,8 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="Core\Psicologo.cs" />
-    <Compile Include="Core\Estudiante.cs" />
+    <Compile Include="Core\TipoUsuario.cs" />
+    <Compile Include="Core\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
